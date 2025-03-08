@@ -1,44 +1,30 @@
-# ICS 344 Project: Offensive Security, Cyber Deception, and SIEM
+# ICS 344 Setup Guide
+
 
 Welcome to the official repository for the ICS 344 Course Project, focusing on practical exercises in **Offensive Security, Cyber Deception, and Security Information and Event Management (SIEM)**.
 
-## Project Overview
-
-This project is designed to provide practical experience in:
-- Setting up vulnerable environments and conducting penetration tests.
-- Implementing and evaluating cybersecurity deception techniques.
-- Collecting, analyzing, and visualizing security events using SIEM tools.
-
 ---
 
-## Repository Contents
+This repository contains setup instructions and guides for the ICS 344 project on **Offensive Security, Cyber Deception, and SIEM**.
 
-- **Phase 1**: Setup and Compromise Services
-- **Phase 2**: Honeypot Setup and Realism Evaluation
-- **Phase 3**: SIEM Analysis and Defensive Strategies
+## Repository Structure
 
-### Included Guides:
-- [Metasploitable 3 Installation Walkthrough (OVA)](./metasploitable-3-installation.md)
-- [Metasploitable Framework and Attacks Guide](./metasploitable-guide.md)
-- **SIEM Dashboard Configuration Guide**
+- **Phase 1**:
+  - [Metasploitable 3 Installation Guide](./PHASE1/Metaslpoitable3.md)
+  - [Metasploit Guide](./PHASE1/metasploit.md)
 
----
+- **Phase 2**:
+  - [Splunk SIEM Setup Guide](./PHASE2/splunkSIEM.md)
 
-## Installation Instructions
+## Purpose
 
-Follow these detailed walkthroughs to set up the required environments:
-
-1. [**Metasploitable 3 (OVA file) Installation Guide**](./Metasploitable3_Install_OVA.md)
-2. [**Offensive Tools & Techniques Setup (Kali, Caldera)**](./Metasploit_and_Caldera_Setup.md)
-3. **SIEM Platform Setup** (recommendations: Wazuh, Splunk, ELK, Graylog)
-
----
+This repository helps students quickly set up required environments and tools for their practical cybersecurity project.
 
 
 
 ## Support and Questions
 
-For any questions or technical assistance, please reach out to the course TAs:
+For any questions or technical assistance, please reach out to the project TA:
 
 - OSAMA RAFAT ALKARNAWI ([s202183150@kfupm.edu.sa](mailto:s202183150@kfupm.edu.sa)) @ TEAMS
 
