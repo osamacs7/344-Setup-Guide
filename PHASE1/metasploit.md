@@ -1,9 +1,9 @@
 
 ---
 
-# **Metasploit Framework - SSH Login Brute-Force Module**
+# **Metasploit Framework**
 
-This repository contains detailed steps for using the **Metasploit Framework** and its **SSH Login Module (`auxiliary/scanner/ssh/ssh_login`)** to brute-force **SSH credentials** on a specified target system. This is useful for **penetration testing** and **red teaming** engagements.
+This repository contains detailed steps for using the **Metasploit Framework** .
 
 ---
 
