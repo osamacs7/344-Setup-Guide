@@ -7,7 +7,7 @@
 ## **Step 1: Install Splunk Server (SIEM) **
 1. **Download Splunk Server .deb Package:**
    ```bash
-   wget -O splunkforwarder-9.4.1-e3bdab203ac8-linux-arm64.deb "https://download.splunk.com/products/universalforwarder/releases/9.4.1/linux/splunkforwarder-9.4.1-e3bdab203ac8-linux-arm64.deb
+   wget -O splunkforwarder-9.4.1-e3bdab203ac8-linux-arm64.deb "https://download.splunk.com/products/universalforwarder/releases/9.4.1/linux/splunkforwarder-9.4.1-e3bdab203ac8-linux-arm64.deb"
    ```
 
 2. **Install the Splunk Server Package:**
