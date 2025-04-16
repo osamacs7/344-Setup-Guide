@@ -61,7 +61,7 @@ The Splunk Universal Forwarder collects logs from the honeypot and sends them to
 
 2. **Install the Forwarder Package:**
    ```bash
-   sudo dpkg -i splunkforwarder-9.3.2-d8bb32809498-Linux-amd64.deb
+   sudo dpkg -i splunkforwarder-9.4.1-e3bdab203ac8-linux-arm64.deb
    ```
 
 3. **Fix Any Broken Dependencies:**
