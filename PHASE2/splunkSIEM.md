@@ -1,4 +1,4 @@
-
+#
 ---
 # **Splunk SIEM Setup Guide (Server & Forwarder Installation)**
 
@@ -85,7 +85,7 @@ The Splunk Universal Forwarder collects logs from the honeypot and sends them to
 2. **Add Data Inputs (Log Files):**
    ```bash
    sudo /opt/splunkforwarder/bin/splunk add monitor /var/log/auth.log
-   sudo /opt/splunkforwarder/bin/splunk add monitor /opt/cowrie/var/log/cowrie.log
+
    ```
 
 ---
@@ -111,7 +111,7 @@ sudo /opt/splunkforwarder/bin/splunk enable boot-start
      http://<splunk-server-ip>:8000
      ```
    - Go to **Search & Reporting** → **Data Summary**.
-   - Verify that logs from the **Forwarder (Honeypot)** are being sent.
+   - Verify that logs from the **Forwarder** are being sent.
 
 ---
 
